@@ -57,11 +57,11 @@ On some systems use `python3 --version`, or `py --version` on Windows.
 ### Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/treasure-island-adventure.git
+git clone https://github.com/Fafali1234557/treasure-island-adventure.git
 cd treasure-island-adventure
 ```
 
-Replace `YOUR-USERNAME` with your own GitHub username. If you haven't uploaded the project yet, simply extract the downloaded ZIP file and open the folder in your terminal.
+Replace `Fafali1234557` with your own GitHub username. If you haven't uploaded the project yet, simply extract the downloaded ZIP file and open the folder in your terminal.
 
 ### Start the adventure
 
